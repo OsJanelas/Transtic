@@ -1,0 +1,10 @@
+start sinewaves.exe
+start inv.exe
+start cubes.exe
+start train.exe
+start mythlasathome.exe
+start BitBlt222.exe
+start rgb.exe
+start elipse.exe
+start darkr.exe
+start MBRpinto.exe
